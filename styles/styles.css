@@ -1,0 +1,39 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;	
+}
+
+.container{
+width:1140px;
+background-color:#d4d4d4;
+margin:0px auto 0px auto;
+
+}
+#welcome{
+width:30%;
+margin: auto;
+}
+#score{
+	height: 50px;
+	margin-bottom:10px;
+	width: 40%;
+	margin: auto;
+	border: 1px solid white;
+	text-align:center;
+	background-color:white;
+}
+#QuizArea{
+	margin-left:20px;
+}
+
+.wrap{
+	width:1140px;
+	margin: 0 auto;
+	background-color:red;
+
+}
+.left-div{
+
+background-color:#d4d4d4;
+}
